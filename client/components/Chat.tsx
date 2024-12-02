@@ -1,4 +1,3 @@
-import React from "react";
 import ChatForm from "./forms/ChatForm";
 const Chat = () => {
   return (
